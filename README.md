@@ -1,0 +1,2 @@
+# ooppracticumafterrefactoring
+Illustrating encapsulation
